@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": "gWOG8FxDFFw",
+      "name": "Stylo",
+      "price": 0.85
+    },
+    {
+      "id": "Zkt5yM_Lpow",
+      "name": "cartable",
+      "price": 126.6
+    },
+    {
+      "id": "lZzF5dLVWUU",
+      "name": "trousse",
+      "price": 15.6
+    },
+    {
+      "id": "AE2WTgiQHyU",
+      "name": "tablier",
+      "price": 33.8
+    },
+    {
+      "name": "crayon",
+      "price": 2.3,
+      "id": "dgcMH9b1cjE"
+    },
+    {
+      "name": "crayon",
+      "price": 2.3,
+      "id": "R2l7otYoHO8"
+    },
+    {
+      "name": "crayon",
+      "price": 2.3,
+      "id": "gEvKMHigxQU"
+    },
+    {
+      "name": "crayon",
+      "price": 2.3,
+      "id": "bdyWgg-vSxI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,6 @@
+<ul>
+@for (p of products(); track $index) {
+<li>id: {{p.id}}--Nom: {{p.name}}--Prix:{{p.price}} DT</li>
+}
+</ul>
+<input type="button" value="Ajouter" (click)="onAddProduct()">
